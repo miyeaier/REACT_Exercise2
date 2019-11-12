@@ -1,11 +1,13 @@
 import React from 'react';
 
 
-function App() {
+const App=()=> {
   return (
-    <div>
-      
-    </div>
+    <>
+    <section name="main">
+      <h1>Employee list</h1>
+    </section>     
+    </>
   );
 }
 
